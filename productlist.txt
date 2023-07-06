@@ -1,0 +1,11 @@
+ca	cake	500.000
+lo	lollipop5.000
+la	lassi	20.220
+pe	pen	5.000
+pc	pencil	10.000
+bo	book	50.550
+wa	wafer	5.000
+cc	ccadeda	50.000
+pa	pan	25.000
+
+vv	xyz	80.000
